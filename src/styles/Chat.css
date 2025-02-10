@@ -1,0 +1,20 @@
+.chat {
+    width: 400px;
+    height: 600px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden;
+    background-color: #e5ddd5;
+  }
+  
+  .chat h2 {
+    background-color: #075e54;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin: 0;
+  }
+  
